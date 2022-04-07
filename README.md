@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Udhaykondeti004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Udhay.K
+- 👀 I’m interested in Development and CP
+- 🌱 I’m currently learning DSA
+- 💞️ I’m first year undergrad in computer science engineering
+- 📫 Feel free to connect https://linktr.ee/udhay_k
 
 <!---
 Udhaykondeti004/Udhaykondeti004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
